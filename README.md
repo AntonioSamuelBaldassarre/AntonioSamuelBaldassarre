@@ -1,16 +1,23 @@
-## Hi there 👋
+<h1 align="left">Ehi !👋 Come va?</h1>
 
-<!--
-**AntonioSamuelBaldassarre/AntonioSamuelBaldassarre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<p align="left">Mi chiamo Antonio Samuel Baldassarre<br>Vengo da Bitonto 70032 (BA)<br>Nato il 30/09/2003</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<h2 align="left">Obbiettivo: Occuparsi di sviluppo web</h2>
+
+###
+
+<p align="left">Per ora:<br>📚 Studio</p>
+
+###
+
+<h2 align="left"></h2>
+
+###
+
+<img src="https://raw.githubusercontent.com/AntonioSamuelBaldassarre/AntonioSamuelBaldassarre/output/snake.svg" alt="Snake animation" />
+
+###
